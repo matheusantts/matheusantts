@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Matheus dos Santos, tenho 18 anos e sou natural do interior de Sao Paulo. Concluí o ensino médio no em 2024, logo apos iniciei alguns cursos de programacao. Atualmente, estou cursando Engenharia de Software na UniCesumar EAD. \
+Me chamo Matheus dos Santos, tenho 19 anos e sou natural do interior de Sao Paulo. Concluí o ensino médio no em 2024, logo apos iniciei alguns cursos de programacao. Atualmente, estou cursando Engenharia de Software na UniCesumar EAD. \
 Acesse meu instagram, linkedin e meu repositorio abaixo...
 <p align="left">
     <a href="https://www.instagram.com/_santosthm/">
