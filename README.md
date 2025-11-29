@@ -21,16 +21,3 @@ Acesse meu instagram, linkedin e meu repositorio abaixo...
 ### 🤖 Linguagens e Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,git,java)](https://skillicons.dev)
-<br/>
-### 📊 Estatísticas
-
-<p>
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=matheusantts&show_icons=true&theme=tokyonigth&include_all_commits=true&locale=pt-br" 
-  />
-
-</p>
