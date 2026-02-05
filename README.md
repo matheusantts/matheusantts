@@ -5,7 +5,7 @@
 Me chamo Matheus dos Santos, tenho 19 anos e sou natural do interior de Sao Paulo. Concluí o ensino médio no em 2024, logo apos iniciei alguns cursos de programacao. Atualmente, estou cursando Engenharia de Software na UniCesumar EAD. \
 Acesse meu instagram, linkedin.
 <p align="left">
-    <a href="https://www.instagram.com/_santosthm/">
+    <a href="https://www.instagram.com/santosmzsa/">
         <img src="icons/Instagram_icon-icons.com_66804.png" alt="insta">      
     </a> 
     <a href="https://www.linkedin.com/in/matheus-santos-dev-fullstack/">
