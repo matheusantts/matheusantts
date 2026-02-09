@@ -20,4 +20,4 @@ Acesse meu instagram, linkedin.
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,git,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,git,cs)](https://skillicons.dev)
