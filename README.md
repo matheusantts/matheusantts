@@ -22,4 +22,4 @@ Acesse meu Linkedin e Repositorio.
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,vscode,c,clion,java,idea,eclipse,windows,linux,mint,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,vscode,c,clion,java,idea,eclipse,windows,linux,ubuntu,mint,mysql)](https://skillicons.dev)
