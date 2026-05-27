@@ -3,10 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Santos+%F0%9F%91%8B%F0%9F%8F%BE;Desenvolvedor+Back-End;Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o" alt="Typing SVG"/>
 
   <p>
-    <a href="https://www.instagram.com/emathsantos/">
+    <a href="https://www.instagram.com/matheusesant/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="https://www.linkedin.com/in/matheus-santos-dev-fullstack/">
+    <a href="www.linkedin.com/in/matheus-santos-dev-backend">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://matheusantts.github.io/Portifolio-Matheus/">
