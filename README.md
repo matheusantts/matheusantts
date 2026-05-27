@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Matheus dos Santos, tenho 19 anos e sou natural do interior de Sao Paulo. Concluí o ensino médio no em 2024, logo apos iniciei alguns cursos de programacao. Atualmente, estou cursando Ciências da Computação na Estácio. \
+Me chamo Matheus dos Santos, tenho 19 anos e sou natural do interior de Sao Paulo. Concluí o ensino médio no de 2024, logo apos iniciei alguns cursos de programacao. Atualmente, estou cursando Ciências da Computação na Estácio. \
 Acesse meu Linkedin e Repositorio.
 <p align="left">
     <!-- 
