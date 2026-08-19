@@ -25,7 +25,7 @@
 Desenvolvedor **Back-End** com 19 anos, natural do interior de São Paulo. Concluí o ensino médio em 2024 e logo em seguida mergulhei no mundo da programação. Atualmente curso **Ciências da Computação** na Estácio e estou em constante evolução, sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
 
 - 🎓 Estudante de **Ciências da Computação** — Estácio
-- 🌱 Desenvolvendo habilidades em **Back-End**
+- 🌱 Desenvolvendo habilidades em **Full-Stack**
 - 💡 Interesse em construir sistemas **robustos e escaláveis**
 - 📍 Interior de São Paulo, Brasil
 
