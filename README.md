@@ -22,7 +22,7 @@
 
 ## 👨🏾‍💻 Sobre mim
 
-Desenvolvedor **Back-End** com 19 anos, natural do interior de São Paulo. Concluí o ensino médio em 2024 e logo em seguida mergulhei no mundo da programação. Atualmente curso **Ciências da Computação** na Estácio e estou em constante evolução, sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
+Desenvolvedor **Full-Stack** com 19 anos, natural do interior de São Paulo. Concluí o ensino médio em 2024 e logo em seguida mergulhei no mundo da programação. Atualmente curso **Ciências da Computação** na Estácio e estou em constante evolução, sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
 
 - 🎓 Estudante de **Ciências da Computação** — Estácio
 - 🌱 Desenvolvendo habilidades em **Full-Stack**
@@ -35,7 +35,7 @@ Desenvolvedor **Back-End** com 19 anos, natural do interior de São Paulo. Concl
 
 <div align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,vscode,c,java,idea,eclipse,mysql,linux,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,bootstrap,js,vscode,c,java,idea,eclipse,mysql,linux,ubuntu)](https://skillicons.dev)
 
 </div>
 
