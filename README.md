@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/matheus-santos-dev-backend/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://matheusantts.github.io/Portifolio-Matheus/">
+    <a href="https://portifolio-matheus-gold.vercel.app/">
       <img src="https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio"/>
     </a>
   </p>
@@ -20,7 +20,7 @@
 
 ## 👨🏾‍💻 Sobre mim
 
-Desenvolvedor **Full-Stack** com 19 anos, natural do interior de São Paulo. Concluí o ensino médio em 2024 e logo em seguida mergulhei no mundo da programação. Atualmente curso **Ciências da Computação** na Estácio e estou em constante evolução, sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
+Desenvolvedor **Full-Stack** com 19 anos, natural do interior de São Paulo. Concluí o ensino médio em 2024 e logo em seguida mergulhei no mundo da programação. Atualmente curso **Ciências da Computação** na Estácio e estou em constante evolução, e trabalhando na Associação Comercial e Empresarial da minha cidade, sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
 
 - 🎓 Estudante de **Ciências da Computação** — Estácio
 - 🌱 Desenvolvendo habilidades em **Full-Stack**
@@ -33,7 +33,7 @@ Desenvolvedor **Full-Stack** com 19 anos, natural do interior de São Paulo. Con
 
 <div align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,bootstrap,js,vscode,c,java,idea,eclipse,mysql,linux,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,bootstrap,js,ts,react,vite,vscode,c,java,py,idea,eclipse,postgres,mysql,docker)](https://skillicons.dev)
 
 </div>
 
